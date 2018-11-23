@@ -1,2 +1,1 @@
-# My-project
-My-project repository
+This is My-project! has to be submitted as my activity
